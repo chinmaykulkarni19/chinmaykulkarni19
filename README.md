@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chinmay</h1>
-<h3 align="center">I'm a Fresher Currently at VIIT</h3>
+<h3 align="center">I'm a CS Student at VIIT</h3>
 
 
 ## 🙋‍♂️ About Me
 
-🏫 Currently First Year Student at Vishwakarma Institute Of Information Technology, Pune
+🏫 Currently Second Year Student at Vishwakarma Institute Of Information Technology, Pune
 
 💻 Computer Science Stream
 

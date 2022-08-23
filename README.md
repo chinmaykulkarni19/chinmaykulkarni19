@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-🏫 Currently Second Year Student at Vishwakarma Institute Of Information Technology, Pune
+🏫 Currently Third Year Student at Vishwakarma Institute Of Information Technology, Pune
 
 💻 Computer Science Stream
 
